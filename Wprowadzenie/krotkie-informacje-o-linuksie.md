@@ -14,11 +14,13 @@ Istnieje wiele różnych dystrybucji. Jedne są przystosowane do użytku na komp
 
 ## Krótka historia Linuksa
 
-Projekt, jakim jest jądro Linux, ma swój początek w roku 1991. Dnia 25 sierpnia 1991 roku fiński student - Linus Torvalds - poinformował użytkowników grupy dyskusyjnej comp.os.minix o tworzeniu przez siebie darmowego, hobbistycznego systemu operacyjnego. Jak wspomina w swoim poście, prace nad systemem rozpoczął w kwietniu tamtego roku.
+Projekt, jakim jest jądro Linux, ma swój początek w roku 1991. Dnia 25 sierpnia 1991 roku fiński student - Linus Torvalds - poinformował użytkowników grupy dyskusyjnej comp.os.minix o tworzeniu przez siebie darmowego, hobbistycznego systemu operacyjnego. Jak wspomina w swoim poście, prace nad systemem rozpoczął w kwietniu tamtego roku. Pierwsza oficjalna wersja Linuksa została wydana 5 października 1991 roku.
 
 Pierwsze dystrybucje Linuksa, takie jak Slackware, czy Debian, zostały opublikowane latem 1993 roku.
 
 Od tego czasu Linux bardzo się rozwinął. Z pisanego dla zabawy prostego systemu, stał się chyba największym i najpopularniejszym projektem, realizującym koncepcję **wolnego oprogramowania** (czyli takiego, którego licencja pozwala na bezpłatne korzystanie z niego, rozpowszechnianie go i przystosowywanie do własnych potrzeb).
+
+Na koniec warto wspomnieć o genezie nazwy Linux. Początkowo, Linus Torvalds nazwał swoje dzieło *Freax*. Pomysłodawcą nazwy *Linux* był Ari Lemmke, któremu nie spodobała się nazwa wymyślona przez Torvaldsa. Udostępniając mu katalog na własnym serwerze FTP, aby mógł tam umieścić pliki Linuksa do pobrania go przez przyszłych użytkowników, nazwał go właśnie *linux*.
 
 ## Gdzie Linux znajduje zastosowanie?
 
@@ -43,3 +45,10 @@ Warto tutaj wspomnieć, jak poprawnie odmieniać słowo Linux przez przypadki. P
 | Narzędnik   | Z kim? Z czym? | Linuxem, Linuksem                   | Linuxami, Linuksami            |
 | Miejscownik | O kim? O czym? | Linuxie, Linuksie                   | Linuxach, Linuksach            |
 | Wołacz      | O!             | Linuxie, Linuksie                   | Linuxy, Linuksy                |
+
+## Maskotka Linuksa
+
+Na sam koniec warto wspomnieć o tym, jak wygląda logo Linuksa. Jest nim siedzący i uśmiechający się pingwin imieniem Tux.
+
+![Pingwin Tux](../images/Wprowadzenie/tux.png)
+
