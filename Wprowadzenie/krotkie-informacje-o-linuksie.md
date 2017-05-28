@@ -18,7 +18,7 @@ Projekt, jakim jest jądro Linux, ma swój początek w roku 1991. Dnia 25 sierpn
 
 Pierwsze dystrybucje Linuksa, takie jak Slackware, czy Debian, zostały opublikowane latem 1993 roku.
 
-Od tego czasu Linux bardzo się rozwinął. Z pisanego dla zabawy prostego systemu, stał się chyba największym i najpopularniejszym projektem, realizującym koncepcję wolnego oprogramowania (czyli takiego, którego licencja pozwala na bezpłatne korzystanie z niego, rozpowszechnianie go i przystosowywanie do własnych potrzeb).
+Od tego czasu Linux bardzo się rozwinął. Z pisanego dla zabawy prostego systemu, stał się chyba największym i najpopularniejszym projektem, realizującym koncepcję **wolnego oprogramowania** (czyli takiego, którego licencja pozwala na bezpłatne korzystanie z niego, rozpowszechnianie go i przystosowywanie do własnych potrzeb).
 
 ## Gdzie Linux znajduje zastosowanie?
 
@@ -26,35 +26,20 @@ Odpowiedź na to pytanie jest bardzo krótka: wszędzie. Znajdziemy go zarówno 
 
 ## Linux, czy GNU/Linux?
 
-Jak wspomnieliśmy wcześniej, system operacyjny oprócz jądra, potrzebuje także pewnej bazy oprogramowania. Zaczęto więc w dystrybucjach Linuksa wykorzystywać oprogramowanie pochodzące z projektu GNU, takie jak: powłoka bash, zestaw kompilatorów GCC oraz wiele innych. Jako, że projekt GNU wywarł bardzo duży wpływ na systemy z rodziny Linux i prawie wszystkie dystrybucje korzystają z jego narzędzi, niektórzy ludzie preferują nazewnictwo **GNU/Linux**.
+Jak wspomnieliśmy wcześniej, system operacyjny oprócz jądra, potrzebuje także pewnej bazy oprogramowania. Zaczęto więc w dystrybucjach Linuksa wykorzystywać oprogramowanie pochodzące z projektu GNU, takie jak: powłoka bash, zestaw kompilatorów GCC oraz wiele innych. Pomysłodawcą GNU był Richard Stallman. Jego celem, było stworzenie kompletnego i jednocześnie  wolnego systemu operacyjnego. Jako, że ten projekt wywarł bardzo duży wpływ na systemy z rodziny Linux i prawie wszystkie dystrybucje korzystają z jego narzędzi, niektórzy ludzie preferują nazewnictwo **GNU/Linux**.
 
 Istnieją jednak systemy bazujące na Linuksie, które nie są wyposażone w to oprogramowanie. Przykładem jest chociażby Android.
 
 ## Odmiana słowa Linux przez przypadki
 
-Warto tutaj wspomnieć, jak poprawnie odmieniać słowo Linux przez przypadki. Pomóc mogą w tym poniższe tabelki.
+Warto tutaj wspomnieć, jak poprawnie odmieniać słowo Linux przez przypadki. Pomóc w tym moźe poniższa tabelka.
 
-Liczba pojedyncza:
-
-| Przypadek   | Pytanie        | Forma/Formy         |
-| ----------- | -------------- | ------------------- |
-| Mianownik   | Kto? Co?       | Linux               |
-| Dopełniacz  | Kogo? Czego?   | Linuxa, Linuksa     |
-| Celownik    | Komu? Czemu?   | Linuxowi, Linuksowi |
-| Biernik     | Kogo? Co?      | Linuxa, Linuksa     |
-| Narzędnik   | Z kim? Z czym? | Linuxem, Linuksem   |
-| Miejscownik | O kim? O czym? | Linuxie, Linuksie   |
-| Wołacz      | O!             | Linuxie, Linuksie   |
-
-Liczba mnoga:
-
-| Przypadek   | Pytanie        | Forma/Formy         |
-| ----------- | -------------- | ------------------- |
-| Mianownik   | Kto? Co?       | Linuxy, Linuksy     |
-| Dopełniacz  | Kogo? Czego?   | Linuxów, Linuksów   |
-| Celownik    | Komu? Czemu?   | Linuxom, Linuksom   |
-| Biernik     | Kogo? Co?      | Linuxy, Linuksy     |
-| Narzędnik   | Z kim? Z czym? | Linuxami, Linuksami |
-| Miejscownik | O kim? O czym? | Linuxach, Linuksach |
-| Wołacz      | O!             | Linuxy, Linuksy     |
-
+| Przypadek   | Pytanie        | Dozwolone formy - liczba pojedyncza | Dozwolone formy - liczba mnoga |
+| ----------- | -------------- | ----------------------------------- | ------------------------------ |
+| Mianownik   | Kto? Co?       | Linux                               | Linuxy, Linuksy                |
+| Dopełniacz  | Kogo? Czego?   | Linuxa, Linuksa                     | Linuxów, Linuksów              |
+| Celownik    | Komu? Czemu?   | Linuxowi, Linuksowi                 | Linuxom, Linuksom              |
+| Biernik     | Kogo? Co?      | Linuxa, Linuksa                     | LInuxy, Linuksy                |
+| Narzędnik   | Z kim? Z czym? | Linuxem, Linuksem                   | Linuxami, Linuksami            |
+| Miejscownik | O kim? O czym? | Linuxie, Linuksie                   | Linuxach, Linuksach            |
+| Wołacz      | O!             | Linuxie, Linuksie                   | Linuxy, Linuksy                |
