@@ -1,26 +1,30 @@
 # Dlaczego Linux?
 
-Na wstępie warto byłoby jeszcze powiedzieć, dlaczego tak bardzo lubimy tego Linuksa. Są przecież jeszcze inne systemy. Na co dzień zapewne większość Twoich znajomych korzysta z Windowsa, więc w czym problem? Chcemy pokazać Ci alternatywę - to, że wszyscy (albo prawie wszyscy) z niego korzystają, to nie znaczy, że nie wolno spróbować czegoś innego.
+Na wstępie warto byłoby jeszcze powiedzieć, dlaczego tak bardzo lubimy tego Linuksa. Są przecież jeszcze inne systemy. Na co dzień zapewne większość Twoich znajomych korzysta z Windowsa, więc w czym problem? Chcemy pokazać Ci alternatywę - to, że wszyscy (albo prawie wszyscy) z niego korzystają, to nie znaczy, że nie warto spróbować czegoś innego.
 
 ## Dla kogo?
 
-Uważamy, że w chwili obecnej z Linuksa korzystać mogą już wszyscy, którzy używają komputera do codziennych zadań, jak przeglądanie stron internetowych, czy poczty. Obecnie tryby graficzne w najprostszych dystrybucjach są bardzo intuicyjne i wszystko idzie "wyklikać". Uważamy również, iż dla programistów, hackerów i innych osób z branży IT, systemy Linuksowe będą wygodniejsze. Więcej jest do nich dostosowanych narzędzi i wygodniej można z nich korzystać.
+Uważamy, że w chwili obecnej z Linuksa korzystać mogą już wszyscy, którzy używają komputera do codziennych zadań,  takich jak przeglądanie stron internetowych, czy poczty elektronicznej. Obecnie interfejsy graficzne w dystrybucjach do codziennego użytku są bardzo intuicyjne i wiele czynności można "wyklikać". Dla osób takich jak programiści, hakerzy, czy innych związanych z branżą IT, systemy Linuksowe mogą być dużo wygodniejsze w obsłudze. Więcej jest do nich dostosowanych narzędzi i wygodniej można z nich korzystać.
 
-Jedyna grupa, której odradzilibyśmy system Linux, to aktywni gracze. Chociaż dostępnych jest coraz więcej gier, jest dedykowany Steam, są platformy umożliwiające uruchamianie programów z Windowsa na Linuksie, to jednak nie jest to jeszcze taki poziom, aby zaawansowani gracze byli zadowoleni.
+Jedynymi grupami użytkowników, którym odradzilibyśmy Linuksa, jako system codziennego użytku, są aktywni gracze oraz osoby wykorzystujące do pracy mniej lub bardziej specjalistyczne oprogramowanie, które nie jest dostępne na ten system. Chociaż na Linuksa dostępnych jest coraz więcej gier, jest dedykowany Steam, są także platformy umożliwiające uruchamianie windowsowych programów na Linuksie, to jednak nie jest to jeszcze taki poziom, aby zaawansowani gracze byli zadowoleni.
 
-## Zalety i wady
+## Zalety i wady Linuksa
 
-Jedną z ważniejszych zalet jest z pewnością cena. Linux nie kosztuje nic, jest po prostu darmowy. Ma otwarty kod źródłowy, do którego każdy może zajrzeć. Nie ma też ograniczeń sprzętowych, tak jak na przykład Mac OS, który dedykowany jest tylko pod sprzęt Apple.
- 
-Linux jest też niesamowicie konfigurowalny. Możesz dostosować sobie znacznie więcej rzeczy niż w systemie Windows. Nie podoba się interfejs jaki masz? Pobierasz inną dystrybucję lub zmieniasz środowisko graficzne w obecnej i gotowe.
+Systemy Linux posiadają wiele nieocenionych zalet. Jedną z ważniejszych i bardziej przekonujących, jest z pewnością cena. Znaczna większość dystrybucji Linuksa nie kosztuje nic, jest po prostu darmowa (istnieją też płatne dystrybucje, ale w nich płaci się przede wszystkim za wsparcie techniczne, np. RHEL). Jądro Linuksa, podobnie jak wiele jego dystrybucji są  przykładami wolnego oprogramowania. Mają otwarty kod źródłowy, to znaczy taki, który jest udostępniony publicznie i do którego każdy może zajrzeć. Nie istnieją też ograniczenia sprzętowe, tak jak jest w przypadku macOS, który dedykowany jest tylko pod sprzęt Apple.
 
-Jako wadę można uznać niedostępność niektórych gier czy programów. Nie jest to jednak bezpośrednio wina samego Linuksa, a twórców tego oprogramowania. Na plus za to łatwość instalacji nowego oprogramowania, które w większości jest w specjalnych repozytoriach jako pakiety. Instalować spoza nich też można.
+Linux jest też niesamowicie konfigurowalny. Możesz dostosować sobie znacznie więcej elementów, niż w systemie Windows. Nie podoba się interfejs jaki masz? Możesz pobrać inną dystrybucję albo zmienić środowisko graficzne w obecnej i gotowe. Dystrybucji Linuksa jest bardzo dużo i z pewnością każdy znajdzie jakąś dla siebie.
+
+Nieocenioną zaletą Linuksa jest z pewnością jego ogromna i świetnie zorganizowana społeczność. Z jednej strony chętnie służy pomocą dla nowych użytkowników, z drugiej zajmuje się rozwojem samego systemu. Kiedy ujawni się jakaś luka w systemie (niestety, chyba żadne oprogramowanie nie jest pozbawione wad i błędów), niezbędną rzeczą staje się natychmiastowe wydanie łatki. Jej szybkie przygotowanie zawdzięczamy często programistom - wolontariuszom, których liczba może być znacznie większa niż liczba programistów w przypadku oprogramowania zamkniętego, które jest rozwijane przez nielicznych.
+
+Linux nadaje się do użytkowania zarówno na lepszym, jak i słabym, jak na dzisiejsze czasy. sprzęcie. Jest to duży atut, gdyż możemy na starym komputerze zainstalować aktualny i bezpieczny system.
+
+Niestety, systemy Linux, jak każde oprogramowanie, nie są pozbawione wad. Jako jedną z nich można uznać niedostępność niektórych gier czy programów. Nie jest to jednak bezpośrednio wina samego Linuksa, a twórców tego oprogramowania. Atutem jest natomiast łatwość instalacji nowego oprogramowania, które w większości jest w specjalnych repozytoriach jako pakiety. Instalować programy można też spoza nich.
 
 ## Fakty i mity
 
-> Linux to tylko czarne okienko, do którego trzeba wpisywać magiczne polecenia.
+> Linux to tylko czarne okienko, do którego trzeba wpisywać jakieś magiczne polecenia.
 
-**MIT**. Obecnie jest dostępna tak duża ilość dystrybucji z różnymi trybami graficznymi, że użycie konsoli do codziennych zastosowań jest zbędne (chociaż oczywiście możliwe).
+**MIT**. Obecnie jest dostępna tak duża ilość dystrybucji z różnymi interfejsami graficznymi, że użycie konsoli do codziennych zastosowań jest zazwyczaj zbędne (chociaż oczywiście możliwe).
 
 > Ten system to tylko dla specjalistów IT.
 
@@ -29,7 +33,7 @@ Jako wadę można uznać niedostępność niektórych gier czy programów. Nie 
 > Na Linuksa jest mało gier.
 
 **FAKT**. Chociaż to się zmienia, są odpowiednie platformy, jest i dedykowany Steam. Nie jest jednak jeszcze tak dobrze jak na Windowsie.
- 
+
 > Linux występuje tylko na serwerach.
 
 **FAKT i zarazem MIT**. Bardzo często napędza on serwery hostujące strony www i inne usługi. Nie ma jednak problemu, aby służył również na komputerze przeciętnego użytkownika. 
@@ -40,22 +44,22 @@ Jako wadę można uznać niedostępność niektórych gier czy programów. Nie 
 
 > Linuksa trzeba umieć skonfigurować.
 
-**FAKT**. Ale przy instalacji podstawowych dystrybucji wszystko jest przygotowywane automatycznie. Zaawansowaną konfiguracje można przeprowadzić sobie w razie takiej potrzeby.
+**FAKT**. Ale przy instalacji podstawowych dystrybucji wszystko jest przygotowywane automatycznie. Ręczną konfigurację można przeprowadzić sobie w razie takiej potrzeby.
 
 > W sieci dostępny jest kod Linuksa, więc na pewno ktoś może zagrozić jego bezpieczeństwu.
 
-**MIT**. Jest wręcz przeciwnie - gdy kod jest dostępny publicznie, społeczność może wykryć błędy. Wiemy też dzięki temu, co tak naprawdę jest w tym systemie.
+**MIT**. Jest wręcz przeciwnie - gdy kod jest dostępny publicznie, społeczność może łatwiej wykryć błędy. Wiemy też dzięki temu, co tak naprawdę jest w tym systemie.
 
 > Na Linuksa nie ma wirusów.
 
-**MIT**. Z pewnością jest ich mniej, ale zdarzają się. Jeśli nawet nie dla samego systemu, to może trafić się luka w oprogramowaniu lub fałszywy e-mail. Zawsze trzeba się pilnować. 
+**MIT**. Z pewnością jest ich dużo mniej, niż na Windowsie, ale zdarzają się. Jeśli nie w samym systemie, to może trafić się luka w oprogramowaniu lub odpowiednio przygotowany e-mail. Zawsze trzeba się pilnować. 
 
 ## Porównanie systemów
 
-Spróbujmy jeszcze porównać trzy najpopularniejsze systemy operacyjne.
+Na koniec spróbujmy jeszcze porównać trzy najpopularniejsze systemy operacyjne przeznaczone do użytku codziennego.
 
-Co? | Linux | MacOS | Windows
---- | --- | --- | ---
-Cena | Darmowy dla każdego | Płatny, dołączany do komputerów Apple | Płatny, często dołączany w cenie komputerów
-Dostępność | Dla każdego | Użytkownicy sprzętu Apple | Dla każdego
-Kod źródłowy | Otwarty | Zamknięty | Zamknięty
+| Kryterium    | Linux                | macOS                                 | Windows                                  |
+| ------------ | -------------------- | ------------------------------------- | ---------------------------------------- |
+| Cena         | Darmowy, dla każdego | Płatny, dołączany do komputerów Apple | Płatny, często dołączany w cenie komputerów |
+| Dostępność   | Dla każdego          | Użytkownicy sprzętu Apple             | Dla każdego                              |
+| Kod źródłowy | Otwarty              | Zamknięty                             | Zamknięty                                |
