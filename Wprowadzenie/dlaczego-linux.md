@@ -16,7 +16,7 @@ Linux jest też niesamowicie konfigurowalny. Możesz dostosować sobie znacznie
 
 Nieocenioną zaletą Linuksa jest z pewnością jego ogromna i świetnie zorganizowana społeczność. Z jednej strony chętnie służy pomocą dla nowych użytkowników, z drugiej zajmuje się rozwojem samego systemu. Kiedy ujawni się jakaś luka w systemie (niestety, chyba żadne oprogramowanie nie jest pozbawione wad i błędów), niezbędną rzeczą staje się natychmiastowe wydanie łatki. Jej szybkie przygotowanie zawdzięczamy często programistom - wolontariuszom, których liczba może być znacznie większa niż liczba programistów w przypadku oprogramowania zamkniętego, które jest rozwijane przez nielicznych.
 
-Linux nadaje się do użytkowania zarówno na lepszym, jak i słabym, jak na dzisiejsze czasy. sprzęcie. Jest to duży atut, gdyż możemy na starym komputerze zainstalować aktualny i bezpieczny system.
+Linux nadaje się do użytkowania zarówno na lepszym, jak i słabym, jak na dzisiejsze czasy, sprzęcie. Jest to duży atut, gdyż możemy na starym komputerze zainstalować aktualny i bezpieczny system.
 
 Niestety, systemy Linux, jak każde oprogramowanie, nie są pozbawione wad. Jako jedną z nich można uznać niedostępność niektórych gier czy programów. Nie jest to jednak bezpośrednio wina samego Linuksa, a twórców tego oprogramowania. Atutem jest natomiast łatwość instalacji nowego oprogramowania, które w większości jest w specjalnych repozytoriach jako pakiety. Instalować programy można też spoza nich.
 
