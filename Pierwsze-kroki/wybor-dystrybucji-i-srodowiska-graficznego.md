@@ -47,3 +47,7 @@ Jak więc Ty, osoba zapewne początkująca, może odnaleźć się w tym pozornym
 - Środowisko Cinnamon jest dość przejrzyste i przyjazne, zapoznanie się z nim nie powinno stanowić kłopotu
 
 Czy możesz zdecydować się na inną dystrybucję i inną powłokę? Pewnie, niczego Ci nie narzucamy. Pamiętaj jednak, że mogą występować pewne różnice pomiędzy stosowanym przez nas oprogramowaniem, a tym wybranym przez Ciebie. Może to więc nieco utrudnić korzystanie z tej książki.
+
+Jeśli jesteś osobą początkującą, stanowczo odradzamy Ci instalowanie systemów takich jak Gentoo, czy Arch Linux. Wymagają one dość sporej wiedzy od użytkownika i można się bardzo szybko zniechęcić.
+
+Nie polecamy też Ci instalowania dystrybucji takich jak Kali Linux. Dlaczego? Odpowiedź na to pytanie znajdziesz [w tym artykule](http://kot-zrodlowy.pl/linux/dajsiepoznac2017/2017/02/04/nie-chcesz-instalowac-kali.html).
